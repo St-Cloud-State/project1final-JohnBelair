@@ -1,0 +1,893 @@
+--- Warehouse Management System ---
+1. Add Client
+2. Add Product
+3. Add Product to Client's Wishlist
+4. Add Product to Client's Order   
+5. Display All Clients
+6. Display All Products
+7. Display Client's Wishlist       
+8. Display Order By Client ID      
+9. Display Waitlist By Client ID   
+10. Receive Shipment to Warehouse  
+11. Record Payment by Client ID    
+12. Display Invoice by Client ID   
+13. Exit
+Enter your choice: 1
+Enter client name: Client #1
+Enter client address: Address #1
+Client added successfully.
+
+--- Warehouse Management System ---
+1. Add Client
+2. Add Product
+3. Add Product to Client's Wishlist
+4. Add Product to Client's Order
+5. Display All Clients
+6. Display All Products
+7. Display Client's Wishlist
+8. Display Order By Client ID
+9. Display Waitlist By Client ID
+10. Receive Shipment to Warehouse
+11. Record Payment by Client ID
+12. Display Invoice by Client ID
+13. Exit
+Enter your choice: 1
+Enter client name: Client #2
+Enter client address: Address #2
+Client added successfully.
+
+--- Warehouse Management System ---
+1. Add Client
+2. Add Product
+3. Add Product to Client's Wishlist
+4. Add Product to Client's Order
+5. Display All Clients
+6. Display All Products
+7. Display Client's Wishlist
+8. Display Order By Client ID
+9. Display Waitlist By Client ID
+10. Receive Shipment to Warehouse
+11. Record Payment by Client ID
+12. Display Invoice by Client ID
+13. Exit
+Enter your choice: 1
+Enter client name: Client #3
+Enter client address: Address #3
+Client added successfully.
+
+--- Warehouse Management System ---
+1. Add Client
+2. Add Product
+3. Add Product to Client's Wishlist
+4. Add Product to Client's Order
+5. Display All Clients
+6. Display All Products
+7. Display Client's Wishlist
+8. Display Order By Client ID
+9. Display Waitlist By Client ID
+10. Receive Shipment to Warehouse
+11. Record Payment by Client ID
+12. Display Invoice by Client ID
+13. Exit
+Enter your choice: 1
+Enter client name: Client #4
+Enter client address: Address #4
+Client added successfully.
+
+--- Warehouse Management System ---
+1. Add Client
+2. Add Product
+3. Add Product to Client's Wishlist
+4. Add Product to Client's Order
+5. Display All Clients
+6. Display All Products
+7. Display Client's Wishlist
+8. Display Order By Client ID
+9. Display Waitlist By Client ID
+10. Receive Shipment to Warehouse
+11. Record Payment by Client ID
+12. Display Invoice by Client ID
+13. Exit
+Enter your choice: 1
+Enter client name: Client #5
+Enter client address: Address #5
+Client added successfully.
+
+--- Warehouse Management System ---
+1. Add Client
+2. Add Product
+3. Add Product to Client's Wishlist
+4. Add Product to Client's Order
+5. Display All Clients
+6. Display All Products
+7. Display Client's Wishlist
+8. Display Order By Client ID
+9. Display Waitlist By Client ID
+10. Receive Shipment to Warehouse
+11. Record Payment by Client ID
+12. Display Invoice by Client ID
+13. Exit
+Enter your choice: 5
+Client [ID: C1, Name: Client #1, Address: Address #1, Balance: $0.0]
+Client [ID: C2, Name: Client #2, Address: Address #2, Balance: $0.0]
+Client [ID: C3, Name: Client #3, Address: Address #3, Balance: $0.0]
+Client [ID: C4, Name: Client #4, Address: Address #4, Balance: $0.0]
+Client [ID: C5, Name: Client #5, Address: Address #5, Balance: $0.0]
+
+--- Warehouse Management System ---
+1. Add Client
+2. Add Product
+3. Add Product to Client's Wishlist
+4. Add Product to Client's Order
+5. Display All Clients
+6. Display All Products
+7. Display Client's Wishlist
+8. Display Order By Client ID
+9. Display Waitlist By Client ID
+10. Receive Shipment to Warehouse
+11. Record Payment by Client ID
+12. Display Invoice by Client ID
+13. Exit
+Enter your choice: 2
+Enter product name: Product #1
+Enter product quantity: 10
+Enter product price: 1
+Product added successfully.
+
+--- Warehouse Management System ---
+1. Add Client
+2. Add Product
+3. Add Product to Client's Wishlist
+4. Add Product to Client's Order
+5. Display All Clients
+6. Display All Products
+7. Display Client's Wishlist
+8. Display Order By Client ID
+9. Display Waitlist By Client ID
+10. Receive Shipment to Warehouse
+11. Record Payment by Client ID
+12. Display Invoice by Client ID
+13. Exit
+Enter your choice: 2
+Enter product name: Product #2
+Enter product quantity: 20
+Enter product price: 2
+Product added successfully.
+
+--- Warehouse Management System ---
+1. Add Client
+2. Add Product
+3. Add Product to Client's Wishlist
+4. Add Product to Client's Order
+5. Display All Clients
+6. Display All Products
+7. Display Client's Wishlist
+8. Display Order By Client ID
+9. Display Waitlist By Client ID
+10. Receive Shipment to Warehouse
+11. Record Payment by Client ID
+12. Display Invoice by Client ID
+13. Exit
+Enter your choice: 2
+Enter product name: Product #3
+Enter product quantity: 30
+Enter product price: 3
+Product added successfully.
+
+--- Warehouse Management System ---
+1. Add Client
+2. Add Product
+3. Add Product to Client's Wishlist
+4. Add Product to Client's Order
+5. Display All Clients
+6. Display All Products
+7. Display Client's Wishlist
+8. Display Order By Client ID
+9. Display Waitlist By Client ID
+10. Receive Shipment to Warehouse
+11. Record Payment by Client ID
+12. Display Invoice by Client ID
+13. Exit
+Enter your choice: 2
+Enter product name: Product #4
+Enter product quantity: 40
+Enter product price: 4
+Product added successfully.
+
+--- Warehouse Management System ---
+1. Add Client
+2. Add Product
+3. Add Product to Client's Wishlist
+4. Add Product to Client's Order
+5. Display All Clients
+6. Display All Products
+7. Display Client's Wishlist
+8. Display Order By Client ID
+9. Display Waitlist By Client ID
+10. Receive Shipment to Warehouse
+11. Record Payment by Client ID
+12. Display Invoice by Client ID
+13. Exit
+Enter your choice: 2
+Enter product name: Product #5
+Enter product quantity: 50
+Enter product price: 5
+Product added successfully.
+
+--- Warehouse Management System ---
+1. Add Client
+2. Add Product
+3. Add Product to Client's Wishlist
+4. Add Product to Client's Order
+5. Display All Clients
+6. Display All Products
+7. Display Client's Wishlist
+8. Display Order By Client ID
+9. Display Waitlist By Client ID
+10. Receive Shipment to Warehouse
+11. Record Payment by Client ID
+12. Display Invoice by Client ID
+13. Exit
+Enter your choice: 6
+Product [ID: P1, Name: Product #1, Quantity: 10, Sale Price: $1.0]
+Product [ID: P2, Name: Product #2, Quantity: 20, Sale Price: $2.0]
+Product [ID: P3, Name: Product #3, Quantity: 30, Sale Price: $3.0]
+Product [ID: P4, Name: Product #4, Quantity: 40, Sale Price: $4.0]
+Product [ID: P5, Name: Product #5, Quantity: 50, Sale Price: $5.0]
+
+--- Warehouse Management System ---
+1. Add Client
+2. Add Product
+3. Add Product to Client's Wishlist
+4. Add Product to Client's Order
+5. Display All Clients
+6. Display All Products
+7. Display Client's Wishlist
+8. Display Order By Client ID
+9. Display Waitlist By Client ID
+10. Receive Shipment to Warehouse
+11. Record Payment by Client ID
+12. Display Invoice by Client ID
+13. Exit
+Enter your choice: 3
+Enter client ID: C1
+Enter product ID: P1
+Enter quantity: 5
+Product added to wishlist.
+
+--- Warehouse Management System ---
+1. Add Client
+2. Add Product
+3. Add Product to Client's Wishlist
+4. Add Product to Client's Order
+5. Display All Clients
+6. Display All Products
+7. Display Client's Wishlist
+8. Display Order By Client ID
+9. Display Waitlist By Client ID
+10. Receive Shipment to Warehouse
+11. Record Payment by Client ID
+12. Display Invoice by Client ID
+13. Exit
+Enter your choice: 3
+Enter client ID: C1
+Enter product ID: P3
+Enter quantity: 5
+Product added to wishlist.
+
+--- Warehouse Management System ---
+1. Add Client
+2. Add Product
+3. Add Product to Client's Wishlist
+4. Add Product to Client's Order
+5. Display All Clients
+6. Display All Products
+7. Display Client's Wishlist
+8. Display Order By Client ID
+9. Display Waitlist By Client ID
+10. Receive Shipment to Warehouse
+11. Record Payment by Client ID
+12. Display Invoice by Client ID
+13. Exit
+Enter your choice: 3
+Enter client ID: C1
+Enter product ID: P5
+Enter quantity: 5
+Product added to wishlist.
+
+--- Warehouse Management System ---
+1. Add Client
+2. Add Product
+3. Add Product to Client's Wishlist
+4. Add Product to Client's Order
+5. Display All Clients
+6. Display All Products
+7. Display Client's Wishlist
+8. Display Order By Client ID
+9. Display Waitlist By Client ID
+10. Receive Shipment to Warehouse
+11. Record Payment by Client ID
+12. Display Invoice by Client ID
+13. Exit
+Enter your choice: 7
+Enter client ID: C1
+Wishlist for client Client #1:
+Product [ID: P1, Name: Product #1, Quantity: 5, Sale Price: $1.0]
+Product [ID: P3, Name: Product #3, Quantity: 5, Sale Price: $3.0]
+Product [ID: P5, Name: Product #5, Quantity: 5, Sale Price: $5.0]
+Total is: 45
+
+--- Warehouse Management System ---
+1. Add Client
+2. Add Product
+3. Add Product to Client's Wishlist
+4. Add Product to Client's Order
+5. Display All Clients
+6. Display All Products
+7. Display Client's Wishlist
+8. Display Order By Client ID
+9. Display Waitlist By Client ID
+10. Receive Shipment to Warehouse
+11. Record Payment by Client ID
+12. Display Invoice by Client ID
+13. Exit
+Enter your choice: 3
+Enter client ID: C2
+Enter product ID: P1
+Enter quantity: 7
+Product added to wishlist.
+
+--- Warehouse Management System ---
+1. Add Client
+2. Add Product
+3. Add Product to Client's Wishlist
+4. Add Product to Client's Order
+5. Display All Clients
+6. Display All Products
+7. Display Client's Wishlist
+8. Display Order By Client ID
+9. Display Waitlist By Client ID
+10. Receive Shipment to Warehouse
+11. Record Payment by Client ID
+12. Display Invoice by Client ID
+13. Exit
+Enter your choice: 3
+Enter client ID: C2
+Enter product ID: P2
+Enter quantity: 7
+Product added to wishlist.
+
+--- Warehouse Management System ---
+1. Add Client
+2. Add Product
+3. Add Product to Client's Wishlist
+4. Add Product to Client's Order
+5. Display All Clients
+6. Display All Products
+7. Display Client's Wishlist
+8. Display Order By Client ID
+9. Display Waitlist By Client ID
+10. Receive Shipment to Warehouse
+11. Record Payment by Client ID
+12. Display Invoice by Client ID
+13. Exit
+Enter your choice: 3
+Enter client ID: C2
+Enter product ID: P4
+Enter quantity: 7
+Product added to wishlist.
+
+--- Warehouse Management System ---
+1. Add Client
+2. Add Product
+3. Add Product to Client's Wishlist
+4. Add Product to Client's Order
+5. Display All Clients
+6. Display All Products
+7. Display Client's Wishlist
+8. Display Order By Client ID
+9. Display Waitlist By Client ID
+10. Receive Shipment to Warehouse
+11. Record Payment by Client ID
+12. Display Invoice by Client ID
+13. Exit
+Enter your choice: 7
+Enter client ID: C2
+Wishlist for client Client #2:
+Product [ID: P1, Name: Product #1, Quantity: 7, Sale Price: $1.0]
+Product [ID: P2, Name: Product #2, Quantity: 7, Sale Price: $2.0]
+Product [ID: P4, Name: Product #4, Quantity: 7, Sale Price: $4.0]
+Total is: 49
+
+--- Warehouse Management System ---
+1. Add Client
+2. Add Product
+3. Add Product to Client's Wishlist
+4. Add Product to Client's Order
+5. Display All Clients
+6. Display All Products
+7. Display Client's Wishlist
+8. Display Order By Client ID
+9. Display Waitlist By Client ID
+10. Receive Shipment to Warehouse
+11. Record Payment by Client ID
+12. Display Invoice by Client ID
+13. Exit
+Enter your choice: 3
+Enter client ID: C3
+Enter product ID: P1
+Enter quantity: 6
+Product added to wishlist.
+
+--- Warehouse Management System ---
+1. Add Client
+2. Add Product
+3. Add Product to Client's Wishlist
+4. Add Product to Client's Order
+5. Display All Clients
+6. Display All Products
+7. Display Client's Wishlist
+8. Display Order By Client ID
+9. Display Waitlist By Client ID
+10. Receive Shipment to Warehouse
+11. Record Payment by Client ID
+12. Display Invoice by Client ID
+13. Exit
+Enter your choice: 3
+Enter client ID: C3
+Enter product ID: P2
+Enter quantity: 6
+Product added to wishlist.
+
+--- Warehouse Management System ---
+1. Add Client
+2. Add Product
+3. Add Product to Client's Wishlist
+4. Add Product to Client's Order
+5. Display All Clients
+6. Display All Products
+7. Display Client's Wishlist
+8. Display Order By Client ID
+9. Display Waitlist By Client ID
+10. Receive Shipment to Warehouse
+11. Record Payment by Client ID
+12. Display Invoice by Client ID
+13. Exit
+Enter your choice: 3
+Enter client ID: C3
+Enter product ID: P5
+Enter quantity: 6
+Product added to wishlist.
+
+--- Warehouse Management System ---
+1. Add Client
+2. Add Product
+3. Add Product to Client's Wishlist
+4. Add Product to Client's Order
+5. Display All Clients
+6. Display All Products
+7. Display Client's Wishlist
+8. Display Order By Client ID
+9. Display Waitlist By Client ID
+10. Receive Shipment to Warehouse
+11. Record Payment by Client ID
+12. Display Invoice by Client ID
+13. Exit
+Enter your choice: 7
+Enter client ID: C3
+Wishlist for client Client #3:
+Product [ID: P1, Name: Product #1, Quantity: 6, Sale Price: $1.0]
+Product [ID: P2, Name: Product #2, Quantity: 6, Sale Price: $2.0]
+Product [ID: P5, Name: Product #5, Quantity: 6, Sale Price: $5.0]
+Total is: 48
+
+--- Warehouse Management System ---
+1. Add Client
+2. Add Product
+3. Add Product to Client's Wishlist
+4. Add Product to Client's Order
+5. Display All Clients
+6. Display All Products
+7. Display Client's Wishlist
+8. Display Order By Client ID
+9. Display Waitlist By Client ID
+10. Receive Shipment to Warehouse
+11. Record Payment by Client ID
+12. Display Invoice by Client ID
+13. Exit
+Enter your choice: 4
+Enter client ID: C2
+Order placed for client Client #2. Total cost: $49.00
+New balance: $-49.00
+Order created from wishlist.
+
+--- Warehouse Management System ---
+1. Add Client
+2. Add Product
+3. Add Product to Client's Wishlist
+4. Add Product to Client's Order
+5. Display All Clients
+6. Display All Products
+7. Display Client's Wishlist
+8. Display Order By Client ID
+9. Display Waitlist By Client ID
+10. Receive Shipment to Warehouse
+11. Record Payment by Client ID
+12. Display Invoice by Client ID
+13. Exit
+Enter your choice: 5
+Client [ID: C1, Name: Client #1, Address: Address #1, Balance: $0.0]
+Client [ID: C2, Name: Client #2, Address: Address #2, Balance: $-49.0]
+Client [ID: C3, Name: Client #3, Address: Address #3, Balance: $0.0]
+Client [ID: C4, Name: Client #4, Address: Address #4, Balance: $0.0]
+Client [ID: C5, Name: Client #5, Address: Address #5, Balance: $0.0]
+
+--- Warehouse Management System ---
+1. Add Client
+2. Add Product
+3. Add Product to Client's Wishlist
+4. Add Product to Client's Order
+5. Display All Clients
+6. Display All Products
+7. Display Client's Wishlist
+8. Display Order By Client ID
+9. Display Waitlist By Client ID
+10. Receive Shipment to Warehouse
+11. Record Payment by Client ID
+12. Display Invoice by Client ID
+13. Exit
+Enter your choice: 4
+Enter client ID: C3
+Order placed for client Client #3. Total cost: $45.00
+New balance: $-45.00
+Order created from wishlist.
+
+--- Warehouse Management System ---
+1. Add Client
+2. Add Product
+3. Add Product to Client's Wishlist
+4. Add Product to Client's Order
+5. Display All Clients
+6. Display All Products
+7. Display Client's Wishlist
+8. Display Order By Client ID
+9. Display Waitlist By Client ID
+10. Receive Shipment to Warehouse
+11. Record Payment by Client ID
+12. Display Invoice by Client ID
+13. Exit
+Enter your choice: 5
+Client [ID: C1, Name: Client #1, Address: Address #1, Balance: $0.0]
+Client [ID: C2, Name: Client #2, Address: Address #2, Balance: $-49.0]
+Client [ID: C3, Name: Client #3, Address: Address #3, Balance: $-45.0]
+Client [ID: C4, Name: Client #4, Address: Address #4, Balance: $0.0]
+Client [ID: C5, Name: Client #5, Address: Address #5, Balance: $0.0]
+
+--- Warehouse Management System ---
+1. Add Client
+2. Add Product
+3. Add Product to Client's Wishlist
+4. Add Product to Client's Order
+5. Display All Clients
+6. Display All Products
+7. Display Client's Wishlist
+8. Display Order By Client ID
+9. Display Waitlist By Client ID
+10. Receive Shipment to Warehouse
+11. Record Payment by Client ID
+12. Display Invoice by Client ID
+13. Exit
+Enter your choice: 7
+Enter client ID: C2
+Wishlist for client Client #2:
+No products found.
+
+--- Warehouse Management System ---
+1. Add Client
+2. Add Product
+3. Add Product to Client's Wishlist
+4. Add Product to Client's Order
+5. Display All Clients
+6. Display All Products
+7. Display Client's Wishlist
+8. Display Order By Client ID
+9. Display Waitlist By Client ID
+10. Receive Shipment to Warehouse
+11. Record Payment by Client ID
+12. Display Invoice by Client ID
+13. Exit
+Enter your choice: 7
+Enter client ID: C3
+Wishlist for client Client #3:
+No products found.
+
+--- Warehouse Management System ---
+1. Add Client
+2. Add Product
+3. Add Product to Client's Wishlist
+4. Add Product to Client's Order
+5. Display All Clients
+6. Display All Products
+7. Display Client's Wishlist
+8. Display Order By Client ID
+9. Display Waitlist By Client ID
+10. Receive Shipment to Warehouse
+11. Record Payment by Client ID
+12. Display Invoice by Client ID
+13. Exit
+Enter your choice: 9
+Enter client ID: C2
+No items on the waitlist for client Client #2.
+
+--- Warehouse Management System ---
+1. Add Client
+2. Add Product
+3. Add Product to Client's Wishlist
+4. Add Product to Client's Order
+5. Display All Clients
+6. Display All Products
+7. Display Client's Wishlist
+8. Display Order By Client ID
+9. Display Waitlist By Client ID
+10. Receive Shipment to Warehouse
+11. Record Payment by Client ID
+12. Display Invoice by Client ID
+13. Exit
+Enter your choice: 9
+Enter client ID: C3
+Waitlist for client Client #3:
+Product: Product #1 | Quantity: 3
+
+--- Warehouse Management System ---
+1. Add Client
+2. Add Product
+3. Add Product to Client's Wishlist
+4. Add Product to Client's Order
+5. Display All Clients
+6. Display All Products
+7. Display Client's Wishlist
+8. Display Order By Client ID
+9. Display Waitlist By Client ID
+10. Receive Shipment to Warehouse
+11. Record Payment by Client ID
+12. Display Invoice by Client ID
+13. Exit
+Enter your choice: 4
+Enter client ID: C1
+Order placed for client Client #1. Total cost: $40.00
+New balance: $-40.00
+Order created from wishlist.
+
+--- Warehouse Management System ---
+1. Add Client
+2. Add Product
+3. Add Product to Client's Wishlist
+4. Add Product to Client's Order
+5. Display All Clients
+6. Display All Products
+7. Display Client's Wishlist
+8. Display Order By Client ID
+9. Display Waitlist By Client ID
+10. Receive Shipment to Warehouse
+11. Record Payment by Client ID
+12. Display Invoice by Client ID
+13. Exit
+Enter your choice: 5
+Client [ID: C1, Name: Client #1, Address: Address #1, Balance: $-40.0]
+Client [ID: C2, Name: Client #2, Address: Address #2, Balance: $-49.0]
+Client [ID: C3, Name: Client #3, Address: Address #3, Balance: $-45.0]
+Client [ID: C4, Name: Client #4, Address: Address #4, Balance: $0.0]
+Client [ID: C5, Name: Client #5, Address: Address #5, Balance: $0.0]
+
+--- Warehouse Management System ---
+1. Add Client
+2. Add Product
+3. Add Product to Client's Wishlist
+4. Add Product to Client's Order
+5. Display All Clients
+6. Display All Products
+7. Display Client's Wishlist
+8. Display Order By Client ID
+9. Display Waitlist By Client ID
+10. Receive Shipment to Warehouse
+11. Record Payment by Client ID
+12. Display Invoice by Client ID
+13. Exit
+Enter your choice: 7
+Enter client ID: C1
+Wishlist for client Client #1:
+No products found.
+
+--- Warehouse Management System ---
+1. Add Client
+2. Add Product
+3. Add Product to Client's Wishlist
+4. Add Product to Client's Order
+5. Display All Clients
+6. Display All Products
+7. Display Client's Wishlist
+8. Display Order By Client ID
+9. Display Waitlist By Client ID
+10. Receive Shipment to Warehouse
+11. Record Payment by Client ID
+12. Display Invoice by Client ID
+13. Exit
+Enter your choice: 11
+Enter client ID: C1
+Enter payment amount: 100
+Payment of $100.0 recorded for Client #1. New balance: $60.0
+
+--- Warehouse Management System ---
+1. Add Client
+2. Add Product
+3. Add Product to Client's Wishlist
+4. Add Product to Client's Order
+5. Display All Clients
+6. Display All Products
+7. Display Client's Wishlist
+8. Display Order By Client ID
+9. Display Waitlist By Client ID
+10. Receive Shipment to Warehouse
+11. Record Payment by Client ID
+12. Display Invoice by Client ID
+13. Exit
+Enter your choice: 11
+Enter client ID: C2
+Enter payment amount: 100
+Payment of $100.0 recorded for Client #2. New balance: $51.0
+
+--- Warehouse Management System ---
+1. Add Client
+2. Add Product
+3. Add Product to Client's Wishlist
+4. Add Product to Client's Order
+5. Display All Clients
+6. Display All Products
+7. Display Client's Wishlist
+8. Display Order By Client ID
+9. Display Waitlist By Client ID
+10. Receive Shipment to Warehouse
+11. Record Payment by Client ID
+12. Display Invoice by Client ID
+13. Exit
+Enter your choice: 5
+Client [ID: C1, Name: Client #1, Address: Address #1, Balance: $60.0]
+Client [ID: C2, Name: Client #2, Address: Address #2, Balance: $51.0]
+Client [ID: C3, Name: Client #3, Address: Address #3, Balance: $-45.0]
+Client [ID: C4, Name: Client #4, Address: Address #4, Balance: $0.0]
+Client [ID: C5, Name: Client #5, Address: Address #5, Balance: $0.0]
+
+--- Warehouse Management System ---
+1. Add Client
+2. Add Product
+3. Add Product to Client's Wishlist
+4. Add Product to Client's Order
+5. Display All Clients
+6. Display All Products
+7. Display Client's Wishlist
+8. Display Order By Client ID
+9. Display Waitlist By Client ID
+10. Receive Shipment to Warehouse
+11. Record Payment by Client ID
+12. Display Invoice by Client ID
+13. Exit
+Enter your choice: 10
+Enter product ID:P1
+Enter product QTY:100
+Order placed for client Client #3. Total cost: $3.00
+New balance: $-48.00
+Order placed for client Client #1. Total cost: $5.00
+New balance: $55.00
+Shipment of P1 of amount 100 received.
+
+--- Warehouse Management System ---
+1. Add Client
+2. Add Product
+3. Add Product to Client's Wishlist
+4. Add Product to Client's Order
+5. Display All Clients
+6. Display All Products
+7. Display Client's Wishlist
+8. Display Order By Client ID
+9. Display Waitlist By Client ID
+10. Receive Shipment to Warehouse
+11. Record Payment by Client ID
+12. Display Invoice by Client ID
+13. Exit
+Enter your choice: 6
+Product [ID: P1, Name: Product #1, Quantity: 92, Sale Price: $1.0]
+Product [ID: P2, Name: Product #2, Quantity: 7, Sale Price: $2.0]
+Product [ID: P3, Name: Product #3, Quantity: 25, Sale Price: $3.0]
+Product [ID: P4, Name: Product #4, Quantity: 33, Sale Price: $4.0]
+Product [ID: P5, Name: Product #5, Quantity: 39, Sale Price: $5.0]
+
+--- Warehouse Management System ---
+1. Add Client
+2. Add Product
+3. Add Product to Client's Wishlist
+4. Add Product to Client's Order
+5. Display All Clients
+6. Display All Products
+7. Display Client's Wishlist
+8. Display Order By Client ID
+9. Display Waitlist By Client ID
+10. Receive Shipment to Warehouse
+11. Record Payment by Client ID
+12. Display Invoice by Client ID
+13. Exit
+Enter your choice: 5
+Client [ID: C1, Name: Client #1, Address: Address #1, Balance: $55.0]
+Client [ID: C2, Name: Client #2, Address: Address #2, Balance: $51.0]
+Client [ID: C3, Name: Client #3, Address: Address #3, Balance: $-48.0]
+Client [ID: C4, Name: Client #4, Address: Address #4, Balance: $0.0]
+Client [ID: C5, Name: Client #5, Address: Address #5, Balance: $0.0]
+
+--- Warehouse Management System ---
+1. Add Client
+2. Add Product
+3. Add Product to Client's Wishlist
+4. Add Product to Client's Order
+5. Display All Clients
+6. Display All Products
+7. Display Client's Wishlist
+8. Display Order By Client ID
+9. Display Waitlist By Client ID
+10. Receive Shipment to Warehouse
+11. Record Payment by Client ID
+12. Display Invoice by Client ID
+13. Exit
+Enter your choice: 12
+Enter client ID: C1
+Invoices for client ID: C1
+Invoice for Client [ID: C1, Name: Client #1, Address: Address #1]
+Products ordered:
+Product [ID: P3, Name: Product #3, Quantity: 5, Price per unit: $3.0]
+Product [ID: P5, Name: Product #5, Quantity: 5, Price per unit: $5.0]
+Total Price: $40.00
+
+Invoice for Client [ID: C1, Name: Client #1, Address: Address #1]
+Products ordered:
+Product [ID: P1, Name: Product #1, Quantity: 92, Price per unit: $1.0]
+Total Price: $5.00
+
+
+--- Warehouse Management System ---
+1. Add Client
+2. Add Product
+3. Add Product to Client's Wishlist
+4. Add Product to Client's Order
+5. Display All Clients
+6. Display All Products
+7. Display Client's Wishlist
+8. Display Order By Client ID
+9. Display Waitlist By Client ID
+10. Receive Shipment to Warehouse
+11. Record Payment by Client ID
+12. Display Invoice by Client ID
+13. Exit
+Enter your choice: 12
+Enter client ID: C2
+Invoices for client ID: C2
+Invoice for Client [ID: C2, Name: Client #2, Address: Address #2]
+Products ordered:
+Product [ID: P1, Name: Product #1, Quantity: 7, Price per unit: $1.0]
+Product [ID: P2, Name: Product #2, Quantity: 7, Price per unit: $2.0]
+Product [ID: P4, Name: Product #4, Quantity: 7, Price per unit: $4.0]
+Total Price: $49.00
+
+
+--- Warehouse Management System ---
+1. Add Client
+2. Add Product
+3. Add Product to Client's Wishlist
+4. Add Product to Client's Order
+5. Display All Clients
+6. Display All Products
+7. Display Client's Wishlist
+8. Display Order By Client ID
+9. Display Waitlist By Client ID
+10. Receive Shipment to Warehouse
+11. Record Payment by Client ID
+12. Display Invoice by Client ID
+13. Exit
+Enter your choice: 13
